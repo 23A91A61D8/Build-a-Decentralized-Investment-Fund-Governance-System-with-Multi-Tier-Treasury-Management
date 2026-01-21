@@ -1,0 +1,27 @@
+{
+  "name": "build-a-decentralized-investment-fund-governance-system-with-multi-tier-treasury-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23A91A61D8/Build-a-Decentralized-Investment-Fund-Governance-System-with-Multi-Tier-Treasury-Management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/23A91A61D8/Build-a-Decentralized-Investment-Fund-Governance-System-with-Multi-Tier-Treasury-Management/issues"
+  },
+  "homepage": "https://github.com/23A91A61D8/Build-a-Decentralized-Investment-Fund-Governance-System-with-Multi-Tier-Treasury-Management#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.28.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  }
+}
